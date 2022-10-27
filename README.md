@@ -2,4 +2,4 @@
 
 Repository to save my Counter-Strike settings
 
-crosshair_code: CSGO-7WncT-hFyG8-eXnmx-SGmyu-ZdvvE
+crosshair_code: CSGO-wdMx7-dprGK-tprSb-cbqrm-hOnMC
